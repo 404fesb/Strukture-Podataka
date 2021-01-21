@@ -1,0 +1,10 @@
+﻿  K-Dtree.c
+C:\Users\krist\source\repos\Project1\Project1\K-Dtree.c(82,24): warning C4047: 'function': 'KD' differs in levels of indirection from 'cvor **'
+C:\Users\krist\source\repos\Project1\Project1\K-Dtree.c(82,24): warning C4024: 'ispis': different types for formal and actual parameter 1
+C:\Users\krist\source\repos\Project1\Project1\K-Dtree.c(29,8): warning C4101: 'p': unreferenced local variable
+C:\Users\krist\source\repos\Project1\Project1\K-Dtree.c(30,8): warning C4101: 'q': unreferenced local variable
+C:\Users\krist\source\repos\Project1\Project1\K-Dtree.c(32,9): warning C4101: 'god': unreferenced local variable
+C:\Users\krist\source\repos\Project1\Project1\K-Dtree.c(121,15): warning C4047: 'return': 'int' differs in levels of indirection from 'int [20][3]'
+C:\Users\krist\source\repos\Project1\Project1\K-Dtree.c(193,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\krist\source\repos\Project1\Project1\K-Dtree.c(121): warning C4172: returning address of local variable or temporary: niz
+  Project1.vcxproj -> C:\Users\krist\source\repos\Project1\Debug\Project1.exe
